@@ -5,7 +5,7 @@ body
 
     font-size: 26px;
 
-    color: #3498DB;
+    color: #0000FF;
 
     background-color: #D2B4DE;
 
@@ -41,7 +41,7 @@ h2 {
 
     border-right-width: 10px;
 
-    border-color: navy;
+    border-color: #0000FF;
 
 }
 
@@ -57,7 +57,7 @@ h3{
 
 p {
 
-    color: navy;
+    color: #0000FF;
 
 }
 
